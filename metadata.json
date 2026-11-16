@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Điểm Danh Số",
+  "description": "Ứng dụng điểm danh học sinh theo tiết học kết nối trực tiếp Google Sheets, hỗ trợ di động, tổng hợp chuyên cần và xuất báo cáo Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
